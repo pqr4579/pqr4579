@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=header&text=이정진&animation=fade&fontColor=red)
 
 
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
